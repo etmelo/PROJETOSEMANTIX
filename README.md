@@ -60,4 +60,4 @@ Este projeto analisa o mercado global de trabalho em **Inteligência Artificial 
 ## 📌 Como Executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/etmelo/projeto-mercado-ia.git](https://github.com/etmelo/PROJETOSEMANTIX)
+   git clone https://github.com/etmelo/PROJETOSEMANTIX
